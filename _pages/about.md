@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Istanbul University</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'></a>. 
 
 profile:
   align: left
