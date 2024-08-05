@@ -22,6 +22,6 @@ Welcome to my web-site!
 
 I'm a PhD candidate in Economics at Istanbul University. My research focuses on the intersection of education, migration, gender, and culture. My dissertation, specifically examines the intergenerational educational mobility and inequality dynamics in Turkey.
 
-Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Jekyll will render your [publications page](https://eliferbay.github.io/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
