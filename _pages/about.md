@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my web-site!
 
-I'm a PhD candidate in Economics at Istanbul University. My research focuses on the intersection of education, migration, gender, and culture. My dissertation, specifically examines the intergenerational educational mobility and inequality dynamics in Turkey.
+I'm a PhD candidate in Economics at Istanbul University. My research interests lie at the intersection of education, migration, gender, and culture. Specifically, my dissertation focuses the intergenerational educational mobility and inequality dynamics in Turkey.
 
 Jekyll will render your [publications page](https://eliferbay.github.io/publications/) automatically.
 
