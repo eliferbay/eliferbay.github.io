@@ -9,9 +9,9 @@ profile:
   image: 15.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Istanbul University, </p>
-    <p>Department of Economics</p>
-    <p>Istanbul/Turkey, 34452</p>
+    <p> </p>
+    <p></p>
+    <p></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,4 +26,3 @@ More information about my background [CV] and [research](https://eliferbay.githu
 
 More information is available in my [CV](https://fontawesome.com/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
