@@ -9,9 +9,9 @@ profile:
   image: 15.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Istanbul University, </p>
+    <p>Department of Economics</p>
+    <p>Istanbul/Turkey, 34452</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,6 +22,8 @@ Welcome to my web-site!
 
 I'm a PhD candidate in Economics at Istanbul University. My research interests lie at the intersection of education, migration, gender, and culture. Specifically, my dissertation focuses the intergenerational educational mobility and inequality dynamics in Turkey.
 
-Jekyll will render your [publications page](https://eliferbay.github.io/publications/) automatically.
+More information about my background [CV] and [research](https://eliferbay.github.io/publications/). 
+
+More information is available in my [CV](https://fontawesome.com/).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
