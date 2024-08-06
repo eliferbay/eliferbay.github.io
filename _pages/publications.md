@@ -17,7 +17,7 @@ nav_order: 2
 
 
 <h2 class="post-title">
-    PUBLICATIONS`
+    PUBLICATIONS
 </h2>
 
 
