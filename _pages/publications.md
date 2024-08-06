@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 
+<div class="header-bar">
+    <h2> PUBLICATIONS </h2>
+</div>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
