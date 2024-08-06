@@ -22,9 +22,9 @@ Welcome to my web-site!
 
 I'm a PhD candidate in Economics at Istanbul University. My research interests lie at the intersection of education, migration, gender, and culture. Specifically, my dissertation focuses the intergenerational educational mobility and inequality dynamics in Turkey.
 
-For more information about my [research](https://eliferbay.github.io/publications/), please visit the relevant section. 
+You can view my publications and working papers in [research](https://eliferbay.github.io/publications/) section.
 
-You can also view my [CV](https://eliferbay.github.io/assets/pdf/CV_academic.pdf) for a detailed overview of my academic and professional background.
+More information is available in my [CV](https://eliferbay.github.io/assets/pdf/CV_academic.pdf). 
 
 
 
