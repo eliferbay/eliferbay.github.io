@@ -20,9 +20,8 @@ nav_order: 2
 </div>
 
 <div class="header-bar">
-    <h1> `WORKING PAPERS1` </h1>
-    <h1>{{ `WORKING PAPERS2` }}</h1>
-    <h2>{{ `WORKING PAPERS3` }}</h2>
+    <h2> WORKING PAPERS </h2>
+    <h3> WORKING PAPERS3 </h3>
 </div>
  
  All the Missing Ladies: Political Selection in High-stakes Contests, (with S. Çakır & K. Matakos)
