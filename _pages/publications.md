@@ -16,14 +16,14 @@ nav_order: 2
 <!-- {% include bib_search.liquid %} -->
 
 <div class="header-bar">
-    <h2> PUBLICATIONS </h2>
+    <h1> PUBLICATIONS </h1>
 </div>
 
 <div class="publications">
 {% bibliography %}
 </div>
 
-
+---
 
 <div class="header-bar">
     <h2> WORKING PAPERS </h2>
