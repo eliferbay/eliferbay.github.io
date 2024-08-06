@@ -17,7 +17,7 @@ nav_order: 2
 
 
 <h2 class="post-title">
-    `PUBLICATIONS`
+    PUBLICATIONS`
 </h2>
 
 
@@ -38,8 +38,13 @@ nav_order: 2
  
 <p> </p>
 
+** Pathways to Progress: The Gender Roles and Intergenerational Educational Mobility in Turkey**
+<p> This paper examines intergenerational educational mobility among females in Turkey, leveraging data from four waves of the Turkish Demographic and Health Surveys (TDHS) from 2003 to 2018 to quantify absolute mobility metrics. Our analysis reveals a significant upward trend in educational mobility for individuals born after 1985, largely attributable to extensive educational reforms aimed at increasing access to schooling. This trend is particularly pronounced in rural areas, suggesting that policy interventions have been effective in reducing regional disparities. In addition to highlighting the impact of educational expansion on mobility dynamics, this study explores the influence of regional, historical, and gender-specific factors. The findings contribute to the broader literature on educational mobility and underscore the importance of continued policy efforts to promote educational equity and socioeconomic advancement in developing countries. </p>
+
+---
+
 **All the Missing Ladies: Political Selection in High-stakes Contests,** (with Selcen Çakır & Konstantinos Matakos)
-<p> Abstract: How does political selection respond when the electoral stakes increase? Who gets to represent us? We study the effect that changes in the intensity of electoral competition has on women's political representation in Turkey. We leverage occurrence of two consecutive legislative elections within few months as a natural experiment giving rise to a DiD strategy which allows us to identify JDP's changes in its list composition and rank as a response to heightened competition. We find that the latter led to a wholesale removal and demotion of women candidates from its lists, bucking the previous trend of increasing female representation. Heterogeneity analysis further reveals that most of the women candidates were removed from electable seats and safe (conservative) districts. While this is consistent with theories of statistical discrimination, the removal of women even from inconsequential positions also reveals taste-based discrimination that has a compounding effect. A counterfactual exercise shows that had lists remained unchanged between the two elections, JDP's female representation in parliament would have been up by 50%, thus highlighting the role that intra-party politics play in exacerbating gender-based discrimination own-gender bias in political selection. </p>
+<p> _Abstract:_ How does political selection respond when the electoral stakes increase? Who gets to represent us? We study the effect that changes in the intensity of electoral competition has on women's political representation in Turkey. We leverage occurrence of two consecutive legislative elections within few months as a natural experiment giving rise to a DiD strategy which allows us to identify JDP's changes in its list composition and rank as a response to heightened competition. We find that the latter led to a wholesale removal and demotion of women candidates from its lists, bucking the previous trend of increasing female representation. Heterogeneity analysis further reveals that most of the women candidates were removed from electable seats and safe (conservative) districts. While this is consistent with theories of statistical discrimination, the removal of women even from inconsequential positions also reveals taste-based discrimination that has a compounding effect. A counterfactual exercise shows that had lists remained unchanged between the two elections, JDP's female representation in parliament would have been up by 50%, thus highlighting the role that intra-party politics play in exacerbating gender-based discrimination own-gender bias in political selection. </p>
 
 ---
 
