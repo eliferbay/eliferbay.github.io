@@ -650,22 +650,21 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
-  h1 {
+  h1 div {
     color: var(--global-theme-color);
     font-size: 2rem;
-    text-align: center;
+    text-align: left;
     margin-top: 1em;
     margin-bottom: 1em;
   }
 
   h2 {
     margin-bottom: 1rem;
-    text-align: left;
+
     span {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
   }
-  
 
   h2.bibliography {
     color: var(--global-divider-color);
