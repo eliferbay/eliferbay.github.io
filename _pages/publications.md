@@ -17,7 +17,6 @@ nav_order: 2
 
 <div class="header-bar">
     <h2> PUBLICATIONS </h2>
-</div>
 
 <div class="publications">
 
@@ -27,8 +26,7 @@ nav_order: 2
 
 ---
 
-<div class="header-bar"
-    text-align: left>
+<div class="header-bar">
     <h2> WORKING PAPERS </h2>
 </div>
  
