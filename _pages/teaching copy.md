@@ -7,9 +7,9 @@ nav: true
 nav_order: 6
 ---
 
- `_PUBLISHED PAPERS/`
+ `PUBLICATIONS`
  
- [Syrian Refugees and Human Capital Accumulation of Working-age Native Children in Turkey](https://doi.org/10.1086/726628) (with Selcen Çakır & Murat Kırdar)
+ [Syrian Refugees and Human Capital Accumulation of Working-age Native Children in Turkey,](https://doi.org/10.1086/726628) Journal of Human Capital (2023), 17(4), pp:557-592 (with S. Çakır & M. Kırdar)
  
  
 
