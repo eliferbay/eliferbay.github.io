@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /Vitae/
+permalink: /vitae/
 title: CV
 description:
 nav: true
 nav_order: 6
 ---
 
-Welcome to my CV section. My full CV is available for download in [PDF](https://eliferbay.github.io/assets/pdf/CV_academic.pdf) format for more detailed information.
+You can download my CV [here](https://eliferbay.github.io/assets/pdf/CV_academic.pdf). 
