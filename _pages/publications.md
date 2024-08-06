@@ -16,7 +16,7 @@ nav_order: 2
 <!-- {% include bib_search.liquid %} -->
 
 <div class="header-bar">
-    <h1> PUBLICATIONS </h1>
+    <h2> PUBLICATIONS </h2>
 </div>
 
 <div class="publications">
