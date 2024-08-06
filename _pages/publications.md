@@ -17,6 +17,7 @@ nav_order: 2
 
 <div class="header-bar">
     <h2> PUBLICATIONS </h2>
+</div>
 
 <div class="publications">
 
