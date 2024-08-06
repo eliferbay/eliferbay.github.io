@@ -18,6 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<p> </p>
+
 Welcome to my web-site!
 
 I'm a PhD candidate in Economics at Istanbul University. My research interests lie at the intersection of education, migration, gender, and culture. Specifically, my dissertation focuses the intergenerational educational mobility and inequality dynamics in Turkey.
