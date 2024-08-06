@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 
@@ -19,7 +19,11 @@ nav_order: 2
 
 </div>
 
-`WORKING PAPERS`
+<div class="header-bar">
+    <h1> `WORKING PAPERS1` </h1>
+    <h1>{{ `WORKING PAPERS2` }}</h1>
+    <h2>{{ `WORKING PAPERS3` }}</h2>
+</div>
  
  All the Missing Ladies: Political Selection in High-stakes Contests, (with S. Çakır & K. Matakos)
 
