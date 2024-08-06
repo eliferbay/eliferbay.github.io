@@ -23,7 +23,7 @@ nav_order: 2
 
 {% bibliography %}
 
-</div>
+<!-- </div> -->
 
 <div class="header-bar">
     <h2> WORKING PAPERS </h2>
