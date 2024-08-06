@@ -15,15 +15,11 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} -->
 
-<h1 class="post-title">
-    PUBLICATIONS1
-</h1>
+
 <h2 class="post-title">
-    PUBLICATIONS2
+    PUBLICATIONS
 </h2>
-<h1 class="post">
-    PUBLICATIONS3
-</h1>
+
 
 
 <div class="publications">
@@ -32,9 +28,9 @@ nav_order: 2
 
 ---
 
-<div class="header-bar">
-    <h2> WORKING PAPERS </h2>
-</div>
+<h2 class="post-title">
+    WORKING PAPERS
+</h2>
  
 <p> </p>
 
