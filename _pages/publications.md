@@ -16,9 +16,7 @@ nav_order: 2
 <!-- {% include bib_search.liquid %} -->
 
 
-<h2 class="post-title">
-    PUBLICATIONS
-</h2>
+### PUBLICATIONS
 
 
 <div class="publications">
