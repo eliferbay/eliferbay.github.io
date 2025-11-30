@@ -6,7 +6,7 @@ subtitle: <a href='#'></a>.
 
 profile:
   align: left
-  image: mypic2.jpg
+  image: elif-full.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
